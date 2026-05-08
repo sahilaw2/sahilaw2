@@ -2,10 +2,10 @@
 <div align="center">
 
 ```text
-  _  _ _ _   ___ _         ___       _    _ _ 
- | || (_) | |_ _( )_ __   / __| __ _| |_ (_) |
- | __ | |_|  | ||/| '  \  \__ \/ _` | ' \| | |
- |_||_|_(_) |___| |_|_|_| |___/\__,_|_||_|_|_|
+                                       _  _ _ _   ___ _         ___       _    _ _ 
+                                      | || (_) | |_ _( )_ __   / __| __ _| |_ (_) |
+                                      | __ | |_|  | ||/| '  \  \__ \/ _` | ' \| | |
+                                      |_||_|_(_) |___| |_|_|_| |___/\__,_|_||_|_|_|
 ```
 
 </div>
@@ -13,7 +13,7 @@
 <div align="center">
   
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Building+apps+using+flutter+%F0%9F%93%B1;Using+Python+for+automation+%F0%9F%90%8D;Designing+beautiful+websites+%F0%9F%AB%AF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=27&pause=1100&color=FF9A9E&center=true&vCenter=true&width=500&lines=Building+apps+using+flutter+%F0%9F%93%B1;Using+Python+for+automation+%F0%9F%90%8D;Designing+beautiful+websites+%F0%9F%AB%AF" />
 </div>
 
 <br>
