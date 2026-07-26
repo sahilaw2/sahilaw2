@@ -34,14 +34,14 @@ I enjoy **Flutter** for mobile, **Python** for everything fun, and making interf
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eta-livid.vercel.app?user=YOUR_USERNAME&theme=rose_pine&hide_border=true&border_radius=15" width="70%" />
+  <img src="https://github-readme-streak-stats-eta-livid.vercel.app?user=sahilaw2&theme=orange&hide_border=true&border_radius=15" width="70%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-rust-omega-20.vercel.app/api?username=sahilaw2&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15" width="48%" />
-  <img src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw2&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats-rust-omega-20.vercel.app/api?username=sahilaw2&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats-rust-omega-20.vercel.app/api/top-langs?username=sahilaw2&layout=compact&hide_border=true&border_radius=15" width="48%" />
 </div>
 
 ---
@@ -63,7 +63,4 @@ I enjoy **Flutter** for mobile, **Python** for everything fun, and making interf
 <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sahilaw2&label=Profile%20Views&color=FF7EB3&style=for-the-badge" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&section=footer&animation=twinkling" width="100%"/>
 </div>
