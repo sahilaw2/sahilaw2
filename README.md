@@ -1,14 +1,4 @@
-
-<div align="center">
-
-```text
-     _  _ _ _   ___ _         ___       _    _ _ 
-    | || (_) | |_ _( )_ __   / __| __ _| |_ (_) |
-    | __ | |_|  | ||/| '  \  \__ \/ _` | ' \| | |
-    |_||_|_(_) |___| |_|_|_| |___/\__,_|_||_|_|_|
-```
-
-</div>
+<img width="1096" height="421" alt="1000146550" src="https://github.com/user-attachments/assets/58fbee92-29b6-439a-a3a2-7c869c592cfa" />
 
 <div align="center">
   
